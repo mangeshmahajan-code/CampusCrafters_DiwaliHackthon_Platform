@@ -66,3 +66,5 @@ instance/
 .DS_Store
 Thumbs.db
 
+# PostgreSQL data
+pgdata/
